@@ -1,3 +1,13 @@
+/** 
+ * <h1>Classe Usuario</h1>
+ * Classe criada para utilização da classe smartTv
+ * <p>
+ * 
+ * @author Wallace Goulart
+ * @version 1.0
+ * @since 18/08/2024
+*/
+
 public class Usuario {
 
     public static void main (String[] adgs) throws Exception{
